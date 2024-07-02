@@ -53,7 +53,7 @@ Inimigo: Monstro Devorador
         Bola de Fogo (Tipo: Mágica, Dano: 7)
     Tipo de Jogador: Monstro
 
-## Pontos de vida, magia e experiência
+## Pontos de vida e experiência
 
 Os pontos de vida (PV) de um personagem definem sua resistência a golpes.
 
