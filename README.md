@@ -8,29 +8,21 @@ Terão nome, pontosDeVida, força, defesa, pontos de experiencia, nível... Alé
 Classes:
 Nossos personagens pertencem a classes  distintas. Inicialmente, teremos as classes: arqueiro, guerreiro, mago e monstro. Cada classe define as habilidades, atributos iniciais, habilidades e evolução dos personagens a cada nível, 
 
-|Arqueiro|Guerreiro|Mago|Monstro|
-|---|---|---|---|
 
 ## Arqueiro
-
-|Habilidade|Dano|Tempo de descanso (unidades)|Alvo|Pontos de Magia|
-| --- | --- | --- | --- | --- |
-
-|Atirar flecha|nível&ast;teto(força&ast;0.3+agilidade&ast;0.5)|4|Único|0|
-
+Arqueiro é um personagem especializado em combate à distância. 
+Com um total de 100 pontos de vida, uma força de 25 e uma defesa de 5. 
+A habilidade nativa "Atirar Flecha" complementa sua destreza e agilidade.
 
 ## Guerreiro
-|Habilidade|Dano|Tempo de descanso (unidades)|Alvo|Pontos de Magia|
-| --- | --- | --- | --- | --- |
-|Espada Flamejante|nível&ast;teto(força&ast;0.3+agilidade&ast;0.5 inteligência&ast;0.4)|7|Único|nível&ast;teto(inteligência+força&ast;0.2)|
-|Golpe de espada|nível&ast;teto(agilidade&ast;0.3+força&ast;0.7)|5|Único|0|
-|Socar|nível&ast;teto(agilidade&ast;0.1+força&ast;0.3)|4|Único|0|
+
+Guerreiro é um robusto combatente de curta distância, conhecido por sua resistência e poder de combate direto. 
+Com 100 pontos de vida, uma força impressionante de 30 e uma defesa sólida de 30. Equipado com habilidades como "Espada Flamejante" e "Golpe de espada dupla".
 
 ## Mago
-|Habilidade|Pontos de Vida|força|defesa
-| --- | --- | --- |
-|Punho de gelo|23|23|
-|Bola de Fogo|23|23
+
+O MAgo é um conjurador. Com 100 pontos de vida, uma força de 36 e uma defesa de 12, ele equilibra sua fragilidade física com habilidades arcanas devastadoras. 
+Equipado com um total de 10 pontos de magia, o Mago utiliza habilidades como "Punho de gelo" e "Bola de Fogo".
 
 ### Inimigo
 
