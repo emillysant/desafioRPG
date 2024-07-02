@@ -84,5 +84,13 @@ personagens sejam derrotados.
 ○ Após a batalha, os personagens podem receber pontos de
 experiência, itens, e outros prêmios.
 
-
-
+## Desafio Extra (Coordenação):
+Sistema de Efeitos de Combate:
+i) Envenenado: O combatente que estiver envenenado toma X
+dando a cada rodada.
+ii) Atordoado: O combatente que estiver atordoado fica 1 turno
+sem atacar
+iii) Queimado: O Combatente que estiver queimado toma X dano
+a cada turno.
+iv) Dormindo: O Combatente que estiver dormindo fica X turnos
+sem atacar até levar um golpe.
