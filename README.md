@@ -24,7 +24,34 @@ Com 100 pontos de vida, uma força impressionante de 30 e uma defesa sólida de 
 O MAgo é um conjurador. Com 100 pontos de vida, uma força de 36 e uma defesa de 12, ele equilibra sua fragilidade física com habilidades arcanas devastadoras. 
 Equipado com um total de 10 pontos de magia, o Mago utiliza habilidades como "Punho de gelo" e "Bola de Fogo".
 
-### Inimigo
+## Inimigo
+
+Inimigo: Elfo das Sombras
+
+    Pontos de Vida: 50
+    Força: 8
+    Defesa: 10
+    Habilidades:
+        Chicote (Tipo: Planta, Dano: 5)
+    Tipo de Jogador: Elfo
+
+Inimigo: Orc Gigante
+
+    Pontos de Vida: 50
+    Força: 10
+    Defesa: 8
+    Habilidades:
+        Garras Afiadas (Tipo: Física, Dano: 5)
+    Tipo de Jogador: Orc
+
+Inimigo: Monstro Devorador
+
+    Pontos de Vida: 50
+    Força: 12
+    Defesa: 12
+    Habilidades:
+        Bola de Fogo (Tipo: Mágica, Dano: 7)
+    Tipo de Jogador: Monstro
 
 ## Pontos de vida, magia e experiência
 
