@@ -63,8 +63,8 @@ Os pontos de experiência (PE) servem para fazer um personagem passar para o pr�
 ### 1. Início da Batalha:
 ○ Quando uma batalha começa, todos os personagens e inimigos
 participantes são listados.
-○ A ordem dos turnos é determinada por um atributo como
-velocidade ou destreza, ou, a ordem clássica: personagem ->
+○ A ordem dos turnos é determinada pelo atributo
+pontosDeVida, ou, a ordem clássica: personagem ->
 inimigo -> personagem -> inimigo.
 
 ### 2. Execução de Turnos:
