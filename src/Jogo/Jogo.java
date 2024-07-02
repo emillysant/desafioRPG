@@ -87,13 +87,12 @@ public class Jogo {
 
 
     public void verificarEFornecerBau(Personagem jogador) {
-        int INIMIGOS_PARA_BAU = 0;
+        int INIMIGOS_PARA_BAU = 1;
 
         if (jogador.getInimigosDerrotados() >= INIMIGOS_PARA_BAU ) {
             System.out.println("\033[33mUm baú apareceu! Você ganhou um item.\033[0m");
             Item itemRecebido = GerenciadorItens.gerarItemAleatorio();
             jogador.adicionarItem(itemRecebido);
-            jogador.adicionarItem(new Item("Veneno", "Atordoar o inimigo", TipoRaridade.LENDARIO));
             System.out.println("\033[33mVocê recebeu: " + itemRecebido.getNome() + " - " + itemRecebido.getDescricao() + "\033[0m");
         }
     }
