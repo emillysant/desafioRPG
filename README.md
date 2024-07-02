@@ -27,18 +27,12 @@ Nossos personagens pertencem a classes  distintas. Inicialmente, teremos as clas
 |Socar|nível&ast;teto(agilidade&ast;0.1+força&ast;0.3)|4|Único|0|
 
 ## Mago
-|Habilidade|Dano|Tempo de descanso (unidades)|Alvo|Pontos de Magia|
-| --- | --- | --- | --- | --- |
-|Enfraquecer|nível&ast; teto(agilidade&ast;0.2+força&ast;0.3+ inteligência&ast;0.5)|5|Único|nível&ast;teto(inteligência&ast;0.5)|
-|Cura Amigo|nível&ast;teto(agilidade&ast;0.2+força&ast;0.5+ inteligência&ast;0.8)|4|Único(Aliado)|nível&ast;teto(inteligência&ast;0.7)|
-|Socar|nível&ast;teto(agilidade&ast;0.1+força&ast;0.1)|2|Único|0|
+|Habilidade|Pontos de Vida|força|defesa
+| --- | --- | --- |
+|Punho de gelo|23|23|
+|Bola de Fogo|23|23
 
-### Monstro | Elfo | Orc
-|Habilidade|Dano|Tempo de descanso (unidades)|Alvo|Pontos de Magia|
-| --- | --- | --- | --- | --- |
-|Socar|nível&ast;teto(agilidade&ast;0.4+força&ast;0.8)|5|Único|0|
-|Chutar|nível&ast;teto(agilidade&ast;0.5+força&ast;1.0)|8|Único|0|
-|Grito atordoante|nível&ast;teto(agilidade&ast;0.2+força&ast;0.4)|6|Todos|0|
+### Inimigo
 
 ## Pontos de vida, magia e experiência
 
@@ -74,16 +68,5 @@ personagens sejam derrotados.
 ○ Após a batalha, os personagens podem receber pontos de
 experiência, itens, e outros prêmios.
 
-### Rodada
-Uma rodada é a soma de todos os turnos de todos os personagens e
-inimigos envolvidos na batalha. Após todos terem realizado suas ações, a
-rodada é considerada completa, e uma nova rodada começa.
-
-### Turno
-Um turno é uma oportunidade de ação para um personagem ou inimigo
-durante o combate. Em cada turno, o personagem pode realizar uma ação
-específica, como atacar, usar uma habilidade, defender ou tentar fugir.
-Cada personagem envolvido na batalha tem a chance de agir uma vez por
-turno.
 
 
