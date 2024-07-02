@@ -87,10 +87,13 @@ experiência, itens, e outros prêmios.
 ## Desafio Extra (Coordenação):
 Sistema de Efeitos de Combate:
 i) Envenenado: O combatente que estiver envenenado toma X
-dando a cada rodada.
+dando a cada rodada - falta terminar
+
 ii) Atordoado: O combatente que estiver atordoado fica 1 turno
-sem atacar
+sem atacar - feito
+
 iii) Queimado: O Combatente que estiver queimado toma X dano
-a cada turno.
+a cada turno - falta terminar
+
 iv) Dormindo: O Combatente que estiver dormindo fica X turnos
-sem atacar até levar um golpe.
+sem atacar até levar um golpe - falta terminar a logica
