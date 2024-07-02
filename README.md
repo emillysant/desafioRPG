@@ -31,8 +31,7 @@ Inimigo: Elfo das Sombras
     Pontos de Vida: 50
     Força: 8
     Defesa: 10
-    Habilidades:
-        Chicote (Tipo: Planta, Dano: 5)
+    Habilidades: Chicote (Tipo: Planta, Dano: 5)
     Tipo de Jogador: Elfo
 
 Inimigo: Orc Gigante
@@ -40,8 +39,7 @@ Inimigo: Orc Gigante
     Pontos de Vida: 50
     Força: 10
     Defesa: 8
-    Habilidades:
-        Garras Afiadas (Tipo: Física, Dano: 5)
+    Habilidades: Garras Afiadas (Tipo: Física, Dano: 5)
     Tipo de Jogador: Orc
 
 Inimigo: Monstro Devorador
@@ -49,8 +47,7 @@ Inimigo: Monstro Devorador
     Pontos de Vida: 50
     Força: 12
     Defesa: 12
-    Habilidades:
-        Bola de Fogo (Tipo: Mágica, Dano: 7)
+    Habilidades: Bola de Fogo (Tipo: Mágica, Dano: 7)
     Tipo de Jogador: Monstro
 
 ## Pontos de vida e experiência
