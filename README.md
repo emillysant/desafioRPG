@@ -86,6 +86,7 @@ experiência, itens, e outros prêmios.
 
 ## Desafio Extra (Coordenação):
 Sistema de Efeitos de Combate:
+
 i) Envenenado: O combatente que estiver envenenado toma X
 dando a cada rodada - falta terminar
 
